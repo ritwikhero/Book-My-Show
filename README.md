@@ -23,7 +23,7 @@ This project is a Spring Boot implementation of the backend APIs for a ticket bo
 
 ![BMSflowchart.jpg](src%2Fmain%2Fjava%2Fcom%2Fdriver%2FbookMyShow%2FImages%2FBMSflowchart.jpg)
 
-## Swagger-ui Screen Shot
+## Swagger-UI Screen Shot
 
 ![Book-my-show API's.png](src%2Fmain%2Fjava%2Fcom%2Fdriver%2FbookMyShow%2FImages%2FBook-my-show%20API%27s.png)
 ## Getting Started
